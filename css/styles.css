@@ -289,13 +289,13 @@ img {
                 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
-.team-section-list-item:hover .socials-link {
-    background-color: var(--color-ocean);
-}
+/*.team-section-list-item:hover .socials-link {*/
+/*    background-color: var(--color-ocean);*/
+/*}*/
 
-.team-section-list-item .socials-link:hover {
-    background-color: var(--color-green);
-}
+/*.team-section-list-item .socials-link:hover {*/
+/*    background-color: var(--color-ocean);*/
+/*}*/
 
 .second-section-icon-block {
     height: 112px;
@@ -428,7 +428,7 @@ body {
 
 .socials-link:hover,
 .socials-link:focus {
-    background-color: var(--color-green);
+    background-color: var(--color-ocean);
 }
 
 .socials-link-footer:hover,
